@@ -2,3 +2,5 @@ filepath: '../../data/Programming1/eeg_data.csv'
 filepath_ass2: '../../data/Programming1/glucose.json'
 filepath_ass3: '../../data/Programming1/10k_synthea_covid19_csv/10k_synthea_covid19_csv/'
 filepath_ass4a: '../../data/Programming1/KNMI_20181231.txt.tsv'
+
+filepath_final: '../../data/Programming1/final_ND_vs_TS/'
